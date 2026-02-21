@@ -83,7 +83,7 @@ _Document_Analyzer/
 
 5. **Run the application**:
    ```bash
-   streamlit run app-v2.py
+   streamlit run app.py
    ```
 
 ## 🎯 Usage
